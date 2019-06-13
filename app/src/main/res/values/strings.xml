@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dinder</string>
+
+    <string name="menu_user">User</string>
+    <string name="menu_feed">Feed</string>
+    <string name="menu_chat">Chat</string>
+    <string name="myself_message">Your message to yourself</string>
+    <string name="send">Send</string>
+    <string name="surname">Surname</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+</resources>

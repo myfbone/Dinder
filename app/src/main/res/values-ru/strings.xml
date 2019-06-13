@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dinder</string>
+
+    <string name="menu_user">Пользователь</string>
+    <string name="menu_feed">Лета</string>
+    <string name="menu_chat">Чат</string>
+    <string name="myself_message">Ваше сообщение самому себе</string>
+    <string name="send">Послать</string>
+    <string name="surname">Фамилия</string>
+    <string name="save">Сохранить</string>
+    <string name="name">Имя</string>
+</resources>
